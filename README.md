@@ -63,7 +63,7 @@ Make sure you have Python 3.6+ installed on your system. You also need to instal
 
 1. **Select a Color**: Choose a color from the dropdown menu.
 2. **Select a Number**: Pick a number between 1 and 8.
-3. **Get Your Prediction**: Click the "🔍 Process" button to receive your fortune.
+3. **Get Your Prediction**: Click the "🔍 Abracadabra...." button to receive your fortune.
 4. **Reset**: Click the "🔄 Reset" button to clear your selections and predictions.
 
 ## Contribution

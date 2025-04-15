@@ -55,7 +55,7 @@ if st.session_state.color_key and st.session_state.number_key:
 col1, col2 = st.columns(2)
 
 with col1:
-    if st.button("🔍 Process"):
+    if st.button("🔍 Abracadabra..."):
         if process == 1:
             color = st.session_state.color_key.lower()
             number = st.session_state.number_key
